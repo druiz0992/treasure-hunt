@@ -4,12 +4,12 @@ Sabemos que tú eres la persona adecuada para este trabajo, así que lo dejamos 
 # Puzzle 1 
 from_ascii(100 + f(key))
 
-keys = William Henry Harrison, Andrew Johnson, James Buchanan, James Monroe
+**keys** = `William Henry Harrison`, `Andrew Johnson`, `James Buchanan`, `James Monroe`
 
 # Puzzle 2
 ![qr](./images/puzzle2.png) + .com
 
-# Puzzle 3
+# Puzzle 3 - Enredo de letras
 
 |**e** | **d** | **i** | **5** | **@** |
 |---|---|---|---|---|
@@ -19,8 +19,7 @@ keys = William Henry Harrison, Andrew Johnson, James Buchanan, James Monroe
 |**@** |**2** |**y** |**1** |**h** |
 
 
-# Puzzle 4
-Quién falta?
+# Puzzle 4 - Quién falta?
 
 <table>
   <tr>
@@ -37,15 +36,15 @@ Quién falta?
 # Puzzle 5
 bytes.fromhex("6E49647465732D").decode()
 
-# Puzzle 6
-¿Está usted de broma, Sr. Feynman?
-131 - 8 - 7 - 2
-104 - 3 - 6 - 1
-276 - 1 - 2 - 1
-436 - 4 - 6 - 6
-90  - 3 - 7 - 2
-286 - 5 - 9 - 4
-159 - 2 - 1 - 1
+# Puzzle 6 - ¿Está usted de broma, Sr. Feynman?
+
+- 131 - 8 - 7 - 2
+- 104 - 3 - 6 - 1
+- 276 - 1 - 2 - 1
+- 436 - 4 - 6 - 6
+- 90  - 3 - 7 - 2
+- 286 - 5 - 9 - 4
+- 159 - 2 - 1 - 1
 
 # Puzzle 7
 ```
