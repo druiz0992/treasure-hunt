@@ -10,11 +10,14 @@ keys = William Henry Harrison, Andrew Johnson, James Buchanan, James Monroe
 ![qr](./images/puzzle2.png) + .com
 
 # Puzzle 3
-e d i 5 @
-r k z 3 1
-u i 8 0 j
-t 1 9 9 s
-@ 2 y 1 h
+
+|**e** | **d** | **i** | **5** | **@** |
+|---|---|---|---|---|
+|**r** |**k** |**z** |**3** |**1** |
+|**u** |**i** |**8** |**0** |**j** |
+|**t** |**1** |**9** |**9** |**s** |
+|**@** |**2** |**y** |**1** |**h** |
+
 
 # Puzzle 4
 Quién falta?
