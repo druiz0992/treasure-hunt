@@ -1,5 +1,5 @@
 Verónica, necesitamos tu ayuda!! Nos han pedido que resolvamos unos problemas y no tenemos ni idea de cómo empezar.
-Sabemos que tú eres la persona adecuada para este trabajo, así que lo dejamos en tus manos. Le mecánica parece bastante sencilla. Hay 7 problemas a resolver. El resultado de cada uno de ellos es una secuencia de caracteres. Además nos han dejado una utilidad para verificar si hemos acertado (`python check.py <puzzle_number> <solution>`). No sabemos qué hay que hacer con estos caracteres. Por favor, ayúdanos!!!!
+Sabemos que tú eres la persona adecuada para este trabajo, así que lo dejamos en tus manos. La mecánica parece bastante sencilla. Hay 7 problemas a resolver. El resultado de cada uno de ellos es una secuencia de caracteres. Además nos han dejado una utilidad para verificar si hemos acertado (`python check.py <puzzle_number> <solution>`). No sabemos qué hay que hacer con estos caracteres. Por favor, ayúdanos!!!!
 
 # Puzzle 1 
 from_ascii(100 + f(key))
