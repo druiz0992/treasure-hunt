@@ -55,3 +55,58 @@ todos los acertijos esconden secretos que esperan ser revelados.
 incluso los desafíos más simples pueden enseñar grandes lecciones.  
 zambullirse en ellos con entusiasmo convierte el juego en aventura.
 ```
+
+# Puzzle 8 
+Enhorabuena Verónica!! Has llegado hasta el final. Has resuelto todos los problemas... 
+Siento defraudarte.  Un quiz no es digno de serlo si no mide tu conocimiento de
+banderas del mundo.
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>1</strong><br>
+      <img src="./images/flag1.png" width="150">
+    </td>
+    <td align="center">
+      <strong>2</strong><br>
+      <img src="./images/flag2.png" width="150">
+    </td>
+    <td align="center">
+      <strong>3</strong><br>
+      <img src="./images/flag3.png" width="150">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>4</strong><br>
+      <img src="./images/flag4.png" width="150">
+    </td>
+    <td align="center">
+      <strong>5</strong><br>
+      <img src="./images/flag5.png" width="150">
+    </td>
+    <td align="center">
+      <strong>6</strong><br>
+      <img src="./images/flag6.png" width="150">
+    </td>
+  </tr>
+</table>
+
+```python
+
+def substitute_last(password, value):
+    parts = password.split("-")
+    parts[-1] = value
+    return "-".join(parts)
+
+def first_letter(x):
+  return x[0]
+
+def flatten(table):
+    return [cell for row in table for cell in row]
+
+substitute_last(
+  pwd,
+  "".join(map(str.lower, map(first_letter, flatten(🏳️))))
+)
+```
